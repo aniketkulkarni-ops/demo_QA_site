@@ -40,7 +40,7 @@ test("Demo QA", async ({ page }) => {
     await webtables.tableformfill('Aniket', 'Kulkari', 'aniket12@gmail.com', '99', '1000', 'xyz');
     console.log('One table added succefully')
     await webtables.deletecol(3, 'Aniket');
-    logger.info('table deleted succefully')
+    console.log('table deleted succefully')
 //Buttons
     const button = new Button(page);
     await button.clickButtonElement();

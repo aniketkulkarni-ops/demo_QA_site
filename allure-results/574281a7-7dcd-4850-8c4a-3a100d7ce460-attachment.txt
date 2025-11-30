@@ -1,0 +1,7 @@
+The check box are checjed
+Radio button are clicked
+One table added succefully
+table deleted succefully
+Clicked and verify all the buttons
+we are receving the API calls
+File uploaded succefully

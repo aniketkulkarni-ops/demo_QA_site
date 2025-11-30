@@ -1,0 +1,128 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - img "adplus-dvertising" [ref=e6] [cursor=pointer]
+    - iframe [ref=e9]:
+      
+  - generic [ref=e10]:
+    - banner [ref=e11]:
+      - link [ref=e12] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e13]
+    - generic [ref=e16]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e22] [cursor=pointer]:
+            - generic [ref=e23]:
+              - img [ref=e25]
+              - text: Elements
+            - img [ref=e30]
+          - list [ref=e35]:
+            - listitem [ref=e36] [cursor=pointer]:
+              - img [ref=e37]
+              - generic [ref=e39]: Text Box
+            - listitem [ref=e40] [cursor=pointer]:
+              - img [ref=e41]
+              - generic [ref=e43]: Check Box
+            - listitem [ref=e44] [cursor=pointer]:
+              - img [ref=e45]
+              - generic [ref=e47]: Radio Button
+            - listitem [ref=e48] [cursor=pointer]:
+              - img [ref=e49]
+              - generic [ref=e51]: Web Tables
+            - listitem [ref=e52] [cursor=pointer]:
+              - img [ref=e53]
+              - generic [ref=e55]: Buttons
+            - listitem [ref=e56] [cursor=pointer]:
+              - img [ref=e57]
+              - generic [ref=e59]: Links
+            - listitem [ref=e60] [cursor=pointer]:
+              - img [ref=e61]
+              - generic [ref=e63]: Broken Links - Images
+            - listitem [ref=e64] [cursor=pointer]:
+              - img [ref=e65]
+              - generic [ref=e67]: Upload and Download
+            - listitem [ref=e68] [cursor=pointer]:
+              - img [ref=e69]
+              - generic [ref=e71]: Dynamic Properties
+        - generic [ref=e74] [cursor=pointer]:
+          - generic [ref=e75]:
+            - img [ref=e77]
+            - text: Forms
+          - img [ref=e83]
+        - generic [ref=e89] [cursor=pointer]:
+          - generic [ref=e90]:
+            - img [ref=e92]
+            - text: Alerts, Frame & Windows
+          - img [ref=e97]
+        - generic [ref=e103] [cursor=pointer]:
+          - generic [ref=e104]:
+            - img [ref=e106]
+            - text: Widgets
+          - img [ref=e111]
+        - generic [ref=e117] [cursor=pointer]:
+          - generic [ref=e118]:
+            - img [ref=e120]
+            - text: Interactions
+          - img [ref=e125]
+        - generic [ref=e131] [cursor=pointer]:
+          - generic [ref=e132]:
+            - img [ref=e134]
+            - text: Book Store Application
+          - img [ref=e139]
+      - generic [ref=e143]:
+        - iframe [ref=e146]:
+          - generic [ref=f2e3]:
+            - button [ref=f2e4]:
+              - img [ref=f2e5]
+            - generic [ref=f2e7]:
+              - generic [ref=f2e9]:
+                - generic [ref=f2e13]:
+                  - button "Play video" [ref=f2e17] [cursor=pointer]:
+                    - img [ref=f2e18]
+                  - button "Unmute video" [ref=f2e23] [cursor=pointer]
+                - button "Replay" [ref=f2e30]:
+                  - img [ref=f2e32] [cursor=pointer]
+                - img [ref=f2e37]
+              - button "Learn more" [ref=f2e44] [cursor=pointer]
+        - generic [ref=e147]:
+          - heading "Dynamic Properties" [level=1] [ref=e148]
+          - paragraph [ref=e149]: This text has random Id
+          - button "Will enable 5 seconds" [disabled] [ref=e150] [cursor=pointer]
+          - button "Color Change" [ref=e151] [cursor=pointer]
+        - iframe [ref=e155]:
+          - generic [ref=f3e3]:
+            - button [ref=f3e4]:
+              - img [ref=f3e5]
+            - generic [ref=f3e7]:
+              - generic [ref=f3e9]:
+                - generic [ref=f3e13]:
+                  - button "Play video" [ref=f3e17] [cursor=pointer]:
+                    - img [ref=f3e18]
+                  - button "Unmute video" [ref=f3e23] [cursor=pointer]
+                - button "Replay" [ref=f3e30]:
+                  - img [ref=f3e32] [cursor=pointer]
+                - img [ref=f3e37]
+              - button "Learn more" [ref=f3e44] [cursor=pointer]
+      - generic [ref=e160]:
+        - img "Build PlayWright tests with AI" [ref=e162] [cursor=pointer]
+        - iframe [ref=e165]:
+          - generic [ref=f4e7] [cursor=pointer]:
+            - link [ref=f4e8]:
+              - /url: https://clck.mgid.com/ghits/25431741/i/58092113/0/pp/1/15?h=lZVN7ZilqpZyL5YdZRvF0clf6-voglgx_Rb_bHeDVDglMFP-VDQ7Wr1CkuklXNi2NZ15KWhn5_-qkQL_P9U5GFauIqe7tdHzi2DN_yguBrfMERW2TWFXgKOAWmfRA3N6&rid=40ce6326-cdc7-11f0-9dae-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=kmAnp1oXNqhuzdPXQm6-uoNLSG4UbKMGxZxPQBEUpqa0S7QsOb4TyE5H_wq1CwLYwGHNgPRS92-KkOtORi_lxQ**
+            - generic [ref=f4e9]:
+              - link [ref=f4e11]:
+                - /url: https://clck.mgid.com/ghits/25431741/i/58092113/0/pp/1/15?h=lZVN7ZilqpZyL5YdZRvF0clf6-voglgx_Rb_bHeDVDglMFP-VDQ7Wr1CkuklXNi2NZ15KWhn5_-qkQL_P9U5GFauIqe7tdHzi2DN_yguBrfMERW2TWFXgKOAWmfRA3N6&rid=40ce6326-cdc7-11f0-9dae-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=kmAnp1oXNqhuzdPXQm6-uoNLSG4UbKMGxZxPQBEUpqa0S7QsOb4TyE5H_wq1CwLYwGHNgPRS92-KkOtORi_lxQ**
+              - generic [ref=f4e14]:
+                - link "Keya Seth Aromatherapy Schoolers Sunscreen SPF 30 For Kids" [ref=f4e16]:
+                  - /url: https://clck.mgid.com/ghits/25431741/i/58092113/0/pp/1/15?h=lZVN7ZilqpZyL5YdZRvF0clf6-voglgx_Rb_bHeDVDglMFP-VDQ7Wr1CkuklXNi2NZ15KWhn5_-qkQL_P9U5GFauIqe7tdHzi2DN_yguBrfMERW2TWFXgKOAWmfRA3N6&rid=40ce6326-cdc7-11f0-9dae-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=kmAnp1oXNqhuzdPXQm6-uoNLSG4UbKMGxZxPQBEUpqa0S7QsOb4TyE5H_wq1CwLYwGHNgPRS92-KkOtORi_lxQ**
+                - link "Amazon" [ref=f4e18]:
+                  - /url: https://clck.mgid.com/ghits/25431741/i/58092113/0/pp/1/15?h=lZVN7ZilqpZyL5YdZRvF0clf6-voglgx_Rb_bHeDVDglMFP-VDQ7Wr1CkuklXNi2NZ15KWhn5_-qkQL_P9U5GFauIqe7tdHzi2DN_yguBrfMERW2TWFXgKOAWmfRA3N6&rid=40ce6326-cdc7-11f0-9dae-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=kmAnp1oXNqhuzdPXQm6-uoNLSG4UbKMGxZxPQBEUpqa0S7QsOb4TyE5H_wq1CwLYwGHNgPRS92-KkOtORi_lxQ**
+                - link [ref=f4e19]:
+                  - /url: https://clck.mgid.com/ghits/25431741/i/58092113/0/pp/1/15?h=lZVN7ZilqpZyL5YdZRvF0clf6-voglgx_Rb_bHeDVDglMFP-VDQ7Wr1CkuklXNi2NZ15KWhn5_-qkQL_P9U5GFauIqe7tdHzi2DN_yguBrfMERW2TWFXgKOAWmfRA3N6&rid=40ce6326-cdc7-11f0-9dae-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=kmAnp1oXNqhuzdPXQm6-uoNLSG4UbKMGxZxPQBEUpqa0S7QsOb4TyE5H_wq1CwLYwGHNgPRS92-KkOtORi_lxQ**
+                  - img [ref=f4e20]
+    - contentinfo [ref=e166]:
+      - generic [ref=e167]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```
